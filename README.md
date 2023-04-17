@@ -1,37 +1,52 @@
-# Foobar
+# CLI ReadMe Generator
 
-Foobar is a Python library for dealing with word pluralization.
+User can create a professional ReadMe file through CLI prompts
 
-## Installation
+## Getting Started
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+* Open terminal or git bash
+* Clone repository to computer
+* Navigate to repository folder in terminal
+* Run 'npm install node' in terminal
+* Run 'npm install inquirer' in terminal
+* Run 'node index.js' in terminal
+* Follow inquirer prompts in terminal
+* New file will be saved as "file-name.md" in repository folder  
+  
+* Watch tutorial [here](https://youtu.be/dSPbE8Wpz2I)
 
-```bash
-pip install foobar
-```
 
-## Usage
+### Prerequisites
 
-```python
-import foobar
+For this ReadMe generator, the user needs to install node.js and inquirer.js as listed above (Navigate to correct folder and run 'npm install node' and 'npm install inquirer' in command line)
 
-# returns 'words'
-foobar.pluralize('word')
 
-# returns 'geese'
-foobar.pluralize('goose')
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+## Built With
 
-## Contributing
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Node.js](https://nodejs.org/en/)
+* [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## Author
+
+**Courtney Foster** 
+
+- [Link to Portfolio Site](https://cfoster121.github.io/portfolio/)
+- [Link to Github](https://github.com/cfoster121)
+- [Link to LinkedIn](https://www.linkedin.com/in/courtney-foster-0b364575/)
+
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License 
+
+## Acknowledgments
+
+* [Node.js Docs](https://nodejs.org/en/)
+* [Inquirer.js Docs](https://www.npmjs.com/package/inquirer)
+* [W3 Schools](https://www.w3schools.com/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+* [Gif Application](https://gifox.io/)
+* [Markdown Preview](https://dillinger.io/)
